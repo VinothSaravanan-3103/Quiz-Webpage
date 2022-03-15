@@ -1,0 +1,47 @@
+body
+{
+  color: black;
+  height: 1500px;
+  width: 1000px;
+  margin: 0 auto;
+  font-family: 'Times New Roman', Times, serif;
+  padding: 100px;
+}
+h1
+{
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 70px;
+}
+#status
+{
+    padding: 10px;
+    color: black;
+}
+div
+{
+    padding: 15px;
+}
+#board h3
+{
+    padding: 5px;
+    color: blue;
+}
+label
+{
+    display: block;
+    padding: 10px;
+}
+button
+{
+    padding: 20px;
+    margin-top: 10px;
+    color:black;
+    border: none;
+    background-color: white;
+    font-size: larger
+}
+button:hover
+{
+    background:skyblue;
+}
